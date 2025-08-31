@@ -1,4 +1,13 @@
-
+<p align="center">
+  <img src=".github/misc/logo.png">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/NAWANJANA-LK/Zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/NAWANJANA-LK/Zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/NAWANJANA-LK/Zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/NAWANJANA-LK/Zphisher?color=teal&style=for-the-badge">
+</p>
 ### Installation
 
 - Just, Clone this repository -
@@ -37,3 +46,4 @@ $ Zphisher
 
 
 <!-- // -->
+
